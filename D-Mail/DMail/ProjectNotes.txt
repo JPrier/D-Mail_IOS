@@ -1,0 +1,9 @@
+Bugs:
+
+
+
+Things to add:
+
+
+Things to complete:
+- error checking and unit tests...should really be done

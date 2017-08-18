@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D4DECBB9C6F50FC4F7094D2E2703A68F2652445A+++368AA08",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D4DECBB9C6F50FC4F7094D2E2703A68F2652445A+++F562A0D" : 9223372036854775807,
+    "D4DECBB9C6F50FC4F7094D2E2703A68F2652445A+++368AA08" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9A09F04C-9330-4EE6-B580-ECE1A1B693B0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D4DECBB9C6F50FC4F7094D2E2703A68F2652445A+++F562A0D" : "",
+    "D4DECBB9C6F50FC4F7094D2E2703A68F2652445A+++368AA08" : "D-Mail_IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "D-Mail",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "D-Mail\/D-Mail.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JPrier\/D-Mail_IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4DECBB9C6F50FC4F7094D2E2703A68F2652445A+++368AA08"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JPrier\/D-mail_IOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4DECBB9C6F50FC4F7094D2E2703A68F2652445A+++F562A0D"
+    }
+  ]
+}
